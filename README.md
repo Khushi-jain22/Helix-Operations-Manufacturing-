@@ -117,6 +117,7 @@ Drill-through analysis for detailed machine-level performance insights.
 ## Project Structure
 
 helix-operations-manufacturing
+
 │
 ├── 1_Excel
 │ └── Excel exploration and pivot analysis
