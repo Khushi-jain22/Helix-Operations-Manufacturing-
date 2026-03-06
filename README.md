@@ -115,6 +115,7 @@ Drill-through analysis for detailed machine-level performance insights.
 • Daily production totals can hide machine-level instability which becomes visible through deeper analysis.
 
 ## Project Structure
+
 helix-operations-manufacturing
 │
 ├── 1_Excel
